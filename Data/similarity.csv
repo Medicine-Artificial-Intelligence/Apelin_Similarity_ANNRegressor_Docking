@@ -1,0 +1,4 @@
+ID,smiles
+CMF-019,CC(C)C[C@H](NC(C1=CC=C2C(N=C(CC3=CC=CS3)N2C(CC)CC)=C1)=O)CC(O)=O
+AMG 986,S(=O)(=O)(Nc1n(-c2c(OC)cccc2OC)c(-c2cc(C)cnc2)nn1)[C@H]([C@H](C)c1ncc(C)cn1)C
+BMS-986224,O=C1NC(COCC)=C(C2=C(OC)C=CC=C2OC)C(O)=C1C3=NN=C(CC4=NC=C(C=C4)Cl)O3
