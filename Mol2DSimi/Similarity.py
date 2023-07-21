@@ -126,7 +126,7 @@ class similarity_calculate:
             elif 'dice' in values:
                 self.dice_col.append(values)
         display(self.data.head(5))
-        self.data.to_csv(f"./Raw_data/{self.save_name}{self.query.GetProp('_Name')}.csv")
+        #self.data.to_csv(f"./Raw_data/{self.save_name}{self.query.GetProp('_Name')}.csv")
         
     def plot(self):
         for i in range(len(self.tani_col)):
